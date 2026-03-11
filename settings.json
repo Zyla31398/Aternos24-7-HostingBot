@@ -2,12 +2,11 @@
   "name": "24/7",
   "bot-account": {
     "username": "24/7",
-    "password": "",
+    "password": "idk31398",
     "type": "offline"
   },
   "server": {
-    "ip": "z-smp.aternos.me
-",
+    "ip": "z-smp.aternos.me",
     "port": 33914,
     "version": "1.21.11",
     "try-creative": false
